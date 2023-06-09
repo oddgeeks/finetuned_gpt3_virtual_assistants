@@ -1,6 +1,6 @@
 # Finetuned GPT-3 Virtual Assistants
 
-"Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning GPT-3 on a dataset, as well as a web interface for integrating the finetuned model into applications. By using this project, a virtual assistant with the ability to understand and respond to natural language queries can be created.
+"Project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning GPT-3 on a dataset, as well as a web interface for integrating the finetuned model into applications. By using this project, a virtual assistant with the ability to understand and respond to natural language queries can be created.
 
 ## Requirements
 
@@ -41,7 +41,7 @@ To use the OpenAI API, you will need an API key. You can sign up for a free API 
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants.git
+git clone https://github.com/oddgeeks/finetuned_gpt3_virtual_assistants.git
 ```
 
 2. Navigate to the project directory:
@@ -119,8 +119,8 @@ We welcome contributions to this project! If you want to contribute, please foll
 
 ## Contact
 
-If you have any questions or suggestions about this project, please don't hesitate to send an email to mahmoudfazeli89@gmail.com.
+If you have any questions or suggestions about this project, please don't hesitate to send an email to oddgeeks.dev@gmail.com.
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants/blob/main/LICENSE) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/oddgeeks/finetuned_gpt3_virtual_assistants/blob/main/LICENSE) file for details.
